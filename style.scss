@@ -20,7 +20,7 @@ html {
 body {
 	background: $darkGray;
   font: 18px/1.4 $helvetica;
-  color: $gray;
+  color: $lightGray;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $gray;
+  color: $lightGray;
   font-weight: bold;
 
   line-height: 1.7;
@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: $gray;
+    color: $lightGray;
   }
 }
 
@@ -61,7 +61,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $lightGray;
 }
 
 p {
@@ -117,7 +117,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $lightGray;
 }
 
 // Specify the color of the selection
@@ -192,7 +192,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $gray;
+  color: $lightGray;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -202,7 +202,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $lightGray;
   font-size: 16px;
 
   @include mobile {
@@ -225,14 +225,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $gray;
+    color: $lightGray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $gray;
+      color: $lightGray;
     }
   }
 }
@@ -256,7 +256,7 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid #A52A2A;
     padding: 0.1em 1em;
-    color: $gray;
+    color: $lightGray;
     font-size: 22px;
     font-style: italic;
   }
