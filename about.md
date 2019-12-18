@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Just graduated from University of Louisiana at Lafayette with a Computer Science degree :)
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This blog is here to document progress on my personal video game project.
 
 ### Contact me
 
