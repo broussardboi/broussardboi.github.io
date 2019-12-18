@@ -156,7 +156,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $mediumSeaGreen;
+  border-bottom: 1px solid #A52A2A;
 
   @include mobile {
     text-align: center;
@@ -243,7 +243,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $mediumSeaGreen;
+  border-bottom: 1px solid #A52A2A;
 }
 
 .posts > .post:last-child {
@@ -254,7 +254,7 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $mediumSeaGreen;
+    border-left: 2px solid #A52A2A;
     padding: 0.1em 1em;
     color: $gray;
     font-size: 22px;
@@ -275,7 +275,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $mediumSeaGreen;
+  background-color: #A52A2A;
 }
 
 footer {
