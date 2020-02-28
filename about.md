@@ -12,4 +12,4 @@ This blog is here to document progress on my personal video game project.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:broussardboihelp@gmail.com)
