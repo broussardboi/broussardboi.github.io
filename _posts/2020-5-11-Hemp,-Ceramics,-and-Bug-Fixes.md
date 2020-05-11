@@ -15,9 +15,9 @@ I also added the ceramic bowl and cup. The bowl is used in baking to hold flour.
 
 
 Quality of life improvements include:  
-*Items added to the inventory go to the hotbar, not the main inventory
-*Items added are logged on the right side of the screen
-*Stat bars now show the numerical value as well as the sliding bar  
+* Items added to the inventory go to the hotbar, not the main inventory  
+* Items added are logged on the right side of the screen  
+* Stat bars now show the numerical value as well as the sliding bar  
 
 
 
